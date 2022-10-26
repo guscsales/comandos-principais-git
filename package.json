@@ -1,0 +1,11 @@
+{
+  "name": "comandos-principais-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/guscsales/comandos-principais-git.git",
+  "author": "Gustavo Sales <gustavo@gsales.io>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
